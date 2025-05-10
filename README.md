@@ -2,6 +2,8 @@
 
 Este projeto realiza uma análise de sentimentos em avaliações de clientes de várias companhias aéreas e investiga como fatores como **atrasos de voo** afetam o **Net Promoter Score (NPS)** das companhias aéreas.
 
+![Captura de tela 2025-05-10 123926](https://github.com/user-attachments/assets/751159ea-4934-4a46-b0cd-ff7fd9342199)
+
 ## Estrutura do Projeto
 
 1. **Leitura e Processamento de Dados**  
